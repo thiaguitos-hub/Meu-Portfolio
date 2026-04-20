@@ -29,5 +29,5 @@ Jogo onde o usuário tenta adivinhar um número aleatório.
 ---
 
 ## 📫 Contato
-- Email: thiagogomesdasilva946@email.com
+- Email: thiagogomesdasilva946@gmail.com
 - GitHub: https://github.com/thiaguitos-hub
